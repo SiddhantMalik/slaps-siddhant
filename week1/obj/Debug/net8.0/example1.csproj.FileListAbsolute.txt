@@ -1,0 +1,12 @@
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/obj/Debug/net8.0/example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/obj/Debug/net8.0/example1.AssemblyInfoInputs.cache
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/obj/Debug/net8.0/example1.AssemblyInfo.cs
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/obj/Debug/net8.0/example1.csproj.CoreCompileInputs.cache
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/obj/Debug/net8.0/example1.sourcelink.json
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/obj/Debug/net8.0/example1.dll
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/obj/Debug/net8.0/refint/example1.dll
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/obj/Debug/net8.0/example1.pdb
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/example1.deps.json
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/example1.dll
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/obj/Debug/net8.0/ref/example1.dll
+/Users/siddhantmalik/Documents/slaps-siddhant/week1/example1.pdb
